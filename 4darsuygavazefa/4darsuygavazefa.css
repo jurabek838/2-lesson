@@ -1,0 +1,551 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.containir {
+    max-width: 1440px;
+    margin: 0 auto;
+}
+
+.box_card {
+    width: 350px;
+    height: 350px;
+    border: 7px solid gray;
+    position: absolute;
+    top: 50px;
+    left: 550px;
+}
+
+.one_box {
+    width: 90px;
+    height: 90px;
+    border: 5px solid rgb(194, 87, 128);
+    position: absolute;
+    top: 20px;
+    left: 20px;
+}
+
+.two_box {
+    width: 90px;
+    height: 90px;
+    border: 5px solid rgb(86, 86, 203);
+    position: absolute;
+    top: 120px;
+    left: 120px;
+}
+
+.three_box {
+    width: 90px;
+    height: 90px;
+    border: 5px solid green;
+    position: absolute;
+    top: 225px;
+    left: 220px;
+}
+
+.mean_box {
+    width: 350px;
+    height: 350px;
+    border: 7px solid gray;
+    position: absolute;
+    top: 450px;
+    left: 550px;
+}
+
+.text_box {
+    width: 90px;
+    height: 90px;
+    border: 5px solid rgb(195, 114, 145);
+    position: absolute;
+    top: 20px;
+    left: 20px;
+}
+
+.card_box {
+    width: 90px;
+    height: 90px;
+    border: 5px solid rgb(96, 96, 204);
+    position: absolute;
+    top: 20px;
+    left: 120px;
+}
+
+.food_box {
+    width: 90px;
+    height: 90px;
+    border: 5px solid rgb(88, 218, 88);
+    position: absolute;
+    top: 20px;
+    left: 220px;
+}
+
+.feat_mean {
+    width: 350px;
+    height: 350px;
+    border: 7px solid gray;
+    position: absolute;
+    top: 850px;
+    left: 550px;
+}
+
+.text_grup {
+    width: 90px;
+    height: 90px;
+    border: 5px solid rgb(195, 114, 145);
+    position: absolute;
+    top: 20px;
+    left: 20px;
+}
+
+.card_sps {
+    width: 90px;
+    height: 90px;
+    border: 5px solid rgb(86, 86, 203);
+    position: absolute;
+    top: 80px;
+    left: 80px;
+}
+
+.food_full {
+    width: 90px;
+    height: 90px;
+    border: 5px solid green;
+    position: absolute;
+    top: 140px;
+    left: 140px;
+}
+
+.several {
+    width: 350px;
+    height: 350px;
+    border: 7px solid gray;
+    position: absolute;
+    top: 1250px;
+    left: 550px;
+}
+
+.evel_fail {
+    width: 90px;
+    height: 90px;
+    background-color: rgb(255, 0, 8);
+    border: 5px solid rgb(255, 0, 60);
+    position: absolute;
+    top: 20px;
+    left: 20px;
+}
+
+.planet_insteat {
+    width: 90px;
+    height: 90px;
+    background-color: blue;
+    border: 5px solid blue;
+    position: absolute;
+    top: 80px;
+    left: 80px;
+}
+
+.viwe_chart {
+    width: 90px;
+    height: 90px;
+    background-color: green;
+    border: 5px solid green;
+    position: absolute;
+    top: 140px;
+    left: 140px;
+}
+
+.afraid_angre {
+    width: 350px;
+    height: 350px;
+    border: 7px solid gray;
+    position: absolute;
+    top: 1650px;
+    left: 550px;
+}
+
+.arrive_attack {
+    width: 90px;
+    height: 90px;
+    background-color: rgb(255, 0, 8);
+    border: 5px solid rgb(255, 0, 60);
+    position: absolute;
+    top: 20px;
+    left: 20px;
+}
+
+.botton_clever {
+    width: 90px;
+    height: 90px;
+    background-color: blue;
+    border: 5px solid blue;
+    position: absolute;
+    top: 80px;
+    left: 80px;
+}
+
+.finally_hide {
+    width: 90px;
+    height: 90px;
+    background-color: green;
+    border: 5px solid green;
+    position: absolute;
+    top: 140px;
+    left: 140px;
+}
+
+.hund_lod {
+    width: 350px;
+    height: 350px;
+    border: 7px solid gray;
+    position: absolute;
+    top: 2050px;
+    left: 550px;
+}
+
+.middle_moment {
+    width: 90px;
+    height: 90px;
+    background-color: rgb(255, 0, 8);
+    border: 5px solid rgb(255, 0, 60);
+    position: absolute;
+    top: 20px;
+    left: 20px;
+}
+
+.plesed_promse {
+    width: 90px;
+    height: 90px;
+    background-color: blue;
+    border: 5px solid blue;
+    position: absolute;
+    top: 80px;
+    left: 80px;
+}
+
+.reple_safe {
+    width: 90px;
+    height: 90px;
+    background-color: green;
+    border: 5px solid green;
+    position: absolute;
+    top: 140px;
+    left: 140px;
+}
+
+.alien_among{
+    width: 350px;
+    height: 350px;
+    border: 7px solid gray;
+    position: absolute;
+    top: 2500px;
+    left: 550px;
+}
+
+.cloud_evel{
+    width: 90px;
+    height: 90px;
+    background-color: rgb(255, 0, 8);
+    border: 5px solid rgb(255, 0, 60);
+    position: absolute;
+    top: 20px;
+    left: 20px;
+}
+
+.frenmly_grade{
+    width: 90px;
+    height: 90px;
+    background-color: blue;
+    border: 5px solid blue;
+    position: absolute;
+    top: 80px;
+    left: 80px;
+}
+
+.instead_library{
+    width: 90px;
+    height: 90px;
+    background-color: green;
+    border: 5px solid green;
+    position: absolute;
+    top: 140px;
+    left: 140px;
+}
+
+.concert_expect{
+    width: 350px;
+    height: 350px;
+    border: 7px solid gray;
+    position: absolute;
+    top: 2900px;
+    left: 550px;
+}
+
+.intruct_issue{
+    width: 90px;
+    height: 90px;
+    border: 5px solid gray;
+    position: absolute;
+    top: 90px;
+    left: 140px;
+}
+.stroll_spreat{
+    width: 300px;
+    height: 322px;
+    border: 7px solid gray;
+    position: absolute;
+    border-right: transparent;
+    top: 10px;
+    left: 20px;
+}
+
+.aware_error{
+    width: 350px;
+    height: 350px;
+    border: 7px solid gray;
+    position: absolute;
+    top: 3300px;
+    left: 550px;
+}
+
+.fielid_hurt{
+    width: 90px;
+    height: 90px;
+    background-color: blue;
+    z-index: 1;
+    position: absolute;
+    top: 40px;
+    left: 40px;
+}
+
+.result_roll{
+    width: 300px;
+    height: 322px;
+    background-color: red; 
+    position: absolute;
+    top: 10px;
+    left: 20px;
+}
+
+.communitu_dead{
+    width: 350px;
+    height: 350px;
+    border: 7px solid gray;
+    position: absolute;
+    top: 3700px;
+    left: 550px;
+}
+
+.weather_wice{
+    width: 200px;
+    height:330px;
+    border: 5px solid gray;
+    position: absolute;
+    top: 5px;
+    left: 75px;
+}
+
+.distance_pet{
+    width: 90px;
+    height: 90px;
+    background-color: red;
+    border-radius: 50%;
+    position: absolute;
+    top: 10px;
+    left: 130px;
+}
+
+.escape_face{
+    width: 90px;
+    height: 90px;
+    background-color:yellow;
+    border-radius: 50%;
+    position: absolute;
+    top: 125px;
+    left: 130px;
+}
+
+.follow_fright{
+    width: 90px;
+    height: 90px;
+    background-color: green;
+    border-radius: 50%;
+    position: absolute;
+    top: 235px;
+    left: 130px;
+}
+
+.famous_force{
+    width: 350px;
+    height: 350px;
+    border: 7px solid gray;
+    position: absolute;
+    top: 4090px;
+    left: 550px;
+}
+
+.harem_lay{
+    width: 300px;
+    height: 300px;
+    background-color:green;
+    border-radius: 50%;
+    position: absolute;
+    top: 25px;
+    left: 20px;
+}
+
+.cotribute_divide {
+    width: 70px;
+    height: 70px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 50%;
+    position: absolute;
+    top: 60px;
+    left: 70px;
+}
+
+.peace_prince{
+    width: 70px;
+    height: 70px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 50%;
+    position: absolute;
+    top: 60px;
+    left: 190px;
+}
+
+.sense_sudde{
+    width: 50px;
+    height: 40px;
+    background-color: rgb(255, 255, 255);
+    position: absolute;
+    top: 155px;
+    left: 140px;
+}
+
+.therefore_garb{
+    width: 120px;
+    height: 20px;
+    background-color: rgb(255, 255, 255);
+    position: absolute;
+    top: 240px;
+    left: 105px;
+}
+
+.anynmory_aslep{
+    width: 350px;
+    height: 350px;
+    border: 7px solid gray;
+    position: absolute;
+    top: 4480px;
+    left: 550px;
+}
+
+.collect_compete{
+    width: 300px;
+    height: 300px;
+    background-color:rgba(255, 170, 0, 0.767);
+    border-radius: 50%;
+    position: absolute;
+    top: 25px;
+    left: 20px;
+}
+
+.either_fozer{
+    width: 70px;
+    height: 70px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 50%;
+    position: absolute;
+    top: 60px;
+    left: 70px;
+}
+
+.group_introgds{
+    width: 70px;
+    height: 70px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 50%;
+    position: absolute;
+    top: 60px;
+    left: 190px;
+}
+
+.marry_praparey{
+    width: 50px;
+    height: 40px;
+    background-color: rgb(255, 255, 255);
+    position: absolute;
+    top: 155px;
+    left: 140px;
+}
+
+.sail_truth{
+    width: 120px;
+    height: 20px;
+    background-color:   rgb(255, 255, 255);
+    position: absolute;
+    top: 240px;
+    left: 105px;
+}
+
+.challenge_claim{
+    width: 350px;
+    height: 350px;
+    border: 7px solid gray;
+    position: absolute;
+    top: 4880px;
+    left: 550px;
+}
+
+.differibute_lay{
+    width: 340px;
+    height: 40px;
+    text-align: center;
+    background-color: rgb(255, 119, 0);
+    position: absolute;
+    top: 0px;
+    left:0 px;
+}
+
+.necessary_patter{
+    width: 350px;
+    height: 350px;
+    border: 7px solid rgb(128, 128, 128);
+    position: absolute;
+    top: 5290px;
+    left: 550px;
+}
+
+.singliy_success{
+    width: 340px;
+    height: 40px;
+    text-align: center;
+    background-color: rgb(202, 20, 20);
+    position: absolute;
+    top: 0px;
+    left:0 px;
+margin-top: 300px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
